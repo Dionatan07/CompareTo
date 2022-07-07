@@ -13,7 +13,6 @@ public class Program {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
-
         List<Integer> list = new ArrayList<>();
 
         String path = "C:\\temp\\in.txt";
